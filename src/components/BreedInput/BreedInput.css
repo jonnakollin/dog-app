@@ -1,0 +1,11 @@
+.BreedInput-input, .BreedInput-button {
+    padding: 10px;
+    border-radius: 4px;
+    border: none;
+    margin-bottom: 30px;
+    font-size:16px;
+}
+
+.BreedInput-input {
+    margin-right: 10px;
+}
